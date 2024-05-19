@@ -5,7 +5,7 @@ public class inputP3 {
         
         //Make a program that prints the table of a number that is input by the user. 
 
-        Scanner SC = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         
         System.out.println(num*1);
@@ -19,7 +19,8 @@ public class inputP3 {
         System.out.println(num*9);
         System.out.println(num*10);
 
-        
+        sc.close();
+
 
 
     }

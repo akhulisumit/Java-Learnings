@@ -14,6 +14,7 @@ public class inputP1 {
         System.out.println(num);
         System.out.println(abc);
 
+        sc.close();
 
 
     }

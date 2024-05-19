@@ -11,5 +11,7 @@ public class inputP2 {
         double area = pi * radius * radius;
         System.out.println(area);
 
+        sc.close();
+
     }
 }
