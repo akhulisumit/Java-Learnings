@@ -42,9 +42,9 @@ public class conditionalP7 {
             default:System.out.println("Invalid");
                 break;
         }
-        
-    
 
+        sc.close();
+        
     }
     
 }
