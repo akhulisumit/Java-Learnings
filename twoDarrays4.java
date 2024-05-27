@@ -51,8 +51,9 @@ public class twoDarrays4 {
         }
         colStart++;
         System.out.println();
-        sc.close();
+       
     }
+    sc.close();
 
         
 
