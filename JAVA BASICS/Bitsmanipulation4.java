@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bitsmanupulation4 {
+public class Bitsmanipulation4 {
     public static void main(String[] args) {
         //update bit
         Scanner sc = new Scanner(System.in);

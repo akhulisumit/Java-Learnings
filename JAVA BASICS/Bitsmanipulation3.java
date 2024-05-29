@@ -1,4 +1,4 @@
-public class Bitsmanupulation3 {
+public class Bitsmanipulation3 {
     public static void main(String[] args) {
         //clear bit
         int n = 5;

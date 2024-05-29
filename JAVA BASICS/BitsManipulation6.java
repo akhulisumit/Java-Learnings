@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BitsManupulation6 {
+public class BitsManipulation6 {
     public static void main(String[] args) {
         //Write a program to toggle a bit a position = “pos” in a number “n”.
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BitsManupulation5 {
+public class BitsManipulation5 {
 
     // Method to check if a number is a power of 2
     public static boolean isPowerOfTwo(int n) {

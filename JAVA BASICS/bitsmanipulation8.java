@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bitsmanupulation8 {
+public class bitsmanipulation8 {
 
     public static String BinarytoDecimal(int decimals){
         if (decimals == 0){
