@@ -19,7 +19,7 @@ public class sorting3 {
                 j--;
             }
             arr[j+1] = current;
-
+ 
         }
         printArray(arr);
     }
